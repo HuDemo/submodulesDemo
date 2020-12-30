@@ -1,0 +1,3 @@
+[submodule "sonmodule"]
+	path = sonmodule
+	url = https://github.com/HuDemo/sonmodule.git
